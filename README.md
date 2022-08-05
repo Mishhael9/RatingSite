@@ -1,0 +1,2 @@
+# RatingSite
+Interactive rating component
